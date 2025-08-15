@@ -1,14 +1,19 @@
+import Navbar from "./components/Navbar"
+import "./css/style.css"
 
 function App() {
   return (
-    <main>
-      < Navbar />
-      < About />
-      < Projects />
-      < Skills />
-      < Testimonal />
-      < Contact />
-    </main>
+    <div className="w-screen h-screen ">
+      Hello
+    </div>
+    // <main>
+    //   < Navbar />
+    //   < About />
+    //   < Projects />
+    //   < Skills />
+    //   < Testimonal />
+    //   < Contact />
+    // </main>
   )
 }
 
